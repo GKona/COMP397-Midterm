@@ -1,0 +1,6 @@
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\bin\COMP397-Lesson02-Part2.dll.config
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\bin\COMP397-Lesson02-Part2.dll
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\bin\COMP397-Lesson02-Part2.pdb
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\obj\Debug\COMP397-CreateJS-BoilerPlate.csprojResolveAssemblyReference.cache
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\obj\Debug\COMP397-Lesson02-Part2.dll
+C:\Users\geri\Desktop\COMP397-CreateJS-BoilerPlate-master\COMP397-CreateJS-BoilerPlate\obj\Debug\COMP397-Lesson02-Part2.pdb
